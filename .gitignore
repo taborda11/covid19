@@ -1,0 +1,12 @@
+# Ignore all
+*
+
+# Unignore parent folders
+!/**/
+
+# Unignore all with extensions
+!*.*
+
+# Ignore TeX compiled files
+*.png
+*.csv
